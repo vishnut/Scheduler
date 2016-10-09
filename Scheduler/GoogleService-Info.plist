@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>265061115669-6lmtqc8ig8mgicfc4q8mpgjul138u7pp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.265061115669-6lmtqc8ig8mgicfc4q8mpgjul138u7pp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtKGeSyphtYJk2O1xjqc5bR7sc3E2qvJs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>265061115669</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Vishnu-Thiagarajan.Scheduler</string>
+	<key>PROJECT_ID</key>
+	<string>scheduler-ac5d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scheduler-ac5d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:265061115669:ios:fdea209fd50ff1d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://scheduler-ac5d9.firebaseio.com</string>
+</dict>
+</plist>
